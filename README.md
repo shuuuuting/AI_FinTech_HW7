@@ -1,2 +1,2 @@
 ## AI_FinTech_HW7
-### concept: AdaBoost
+### concept: investment portfolio/ AdaBoost for face recognition
