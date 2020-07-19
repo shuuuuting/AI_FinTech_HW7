@@ -1,1 +1,2 @@
-# AI_FinTech_HW7
+## AI_FinTech_HW7
+### concept: AdaBoost
